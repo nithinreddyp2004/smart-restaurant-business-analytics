@@ -2,9 +2,11 @@
 
 A complete restaurant analytics and machine learning dashboard built using **Python**, **Streamlit**, and **Machine Learning**.
 
-## 🚀 Features
+---
 
-### 📊 Exploratory Data Analysis (EDA)
+# 🚀 Features
+
+## 📊 Exploratory Data Analysis (EDA)
 
 * Daily sales trend
 * Weekly revenue analysis
@@ -14,31 +16,33 @@ A complete restaurant analytics and machine learning dashboard built using **Pyt
 * Payment method analysis
 * Revenue by category and city
 
-### 🧑‍🤝‍🧑 Customer Analytics
+## 🧑‍🤝‍🧑 Customer Analytics
 
 * Frequent customers
 * Repeat customer ratio
 * Spending patterns
 * Customer segmentation using K-Means clustering
 
-### 🤖 Machine Learning
+## 🤖 Machine Learning
 
-* Sales prediction model
+### Sales Prediction Models
+
 * Random Forest Regression
 * Linear Regression
-* Model evaluation using:
 
-  * MAE
-  * RMSE
-  * R² Score
+### Evaluation Metrics
 
-### 🔗 Recommendation System
+* MAE
+* RMSE
+* R² Score
+
+## 🔗 Recommendation System
 
 * Frequently bought together items
 * Combo recommendations
 * Item recommendation engine
 
-### 🧹 Data Cleaning & Preprocessing
+## 🧹 Data Cleaning & Preprocessing
 
 * Missing value handling
 * Duplicate removal
@@ -78,7 +82,7 @@ smart-restaurant-business-analytics/
 
 # ▶️ Run the Project
 
-## Install dependencies
+## Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -104,10 +108,16 @@ python -m streamlit run app.py
 
 ---
 
-# 📈 Model Used
+# 📈 Models Used
 
 * Random Forest Regressor
 * Linear Regression
+
+---
+
+# 🌐 Live Streamlit App
+
+https://smart-restaurant-business-analytics.streamlit.app/
 
 ---
 
@@ -119,6 +129,6 @@ https://github.com/nithinreddyp2004/smart-restaurant-business-analytics
 
 # 👨‍💻 Author
 
-Nithin Reddy
+**Nithin Reddy**
 
 Built as a Data Science & Machine Learning project for restaurant business analytics.
